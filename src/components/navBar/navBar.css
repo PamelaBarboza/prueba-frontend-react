@@ -1,0 +1,46 @@
+.container-navBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textUsser {
+  margin: 0px;
+}
+
+.container-navBar div {
+  margin: 10px;
+}
+
+.container-1 {
+  width: 300px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.container-1 input#search {
+  width: 300px;
+  height: 50px;
+  border: none;
+  border-bottom: 1px;
+  font-size: 10pt;
+  
+}
+
+.form-control-lg {
+    outline: none;
+    border-bottom: 1px solid black;
+}
+
+
+.box {
+  width: 360px;
+}
+
+.logo img {
+  width: 150px;
+}
+
+.logo {
+  width: 300px;
+}
