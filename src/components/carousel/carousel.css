@@ -1,0 +1,6 @@
+.slick-dots{
+    bottom: 16px !important;
+}
+.slick-dots li button:before{
+    color:white !important;
+}

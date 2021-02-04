@@ -1,0 +1,18 @@
+.col{
+    display: flex;
+    width: 300px;
+}
+
+.col img{
+    width: 200px;
+    margin: 4px;
+}
+
+.container-carousel{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.carousel{
+    width: 800px !important;
+}
